@@ -1,4 +1,4 @@
-# Leet-code CPP Debug Setup Tutorial
+# Leetcode CPP Debug Setup Tutorial
 
 This tutorial helps the leetcoder who is not familiar with c++ quickly setup their debugging environment with ease. There are vscode extension outthere, but I found them hard to use, especially for poor support for data structure like trees, and metascript addition to original leetcode file. By following this tutorial, you should make sure you have your own c++ compiler, vscode [leetcode]{https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode} extension installed.  
 
